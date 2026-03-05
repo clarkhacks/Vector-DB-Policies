@@ -1,0 +1,177 @@
+OPD - 28.2
+Page 1 of 5
+DEPARTMENTAL GENERAL ORDER
+OLIVETTE POLICE DEPARTMENT
+OFFICE OF THE CHIEF OF POLICE
+Index as:
+Automated License Plate Readers
+ALPR
+LPR
+FLOCK
+AUTOMATED LICENSE PLATE READERS
+I. PURPOSE:
+The purpose of this General Order is to provide guidelines for the Olivette Police
+Department use of the Automated License Plate Recognition (ALPR or LPR) system and
+ALPR data.
+II. POLICY:
+The Olivette Police Department currently contracts with a third-party service provider for
+its Automated License Plate Recognition system. It is the policy of the Olivette Police
+Department to use Automated License Plate Recognition legally and ethically for official
+and legitimate law enforcement purposes.
+The use of ALPR systems and ALPR data is restricted to employees who are trained and
+authorized to use the system and ALPR data for authorized purposes only. Employees
+will follow the procedures for ALPR system use as set forth by the service provider and
+as outlined in this General Order. Any misuse of the ALPR system or ALPR data by
+employees is strictly prohibited and may result in disciplinary action.
+III. DEFINITIONS:
+A. Automated License Plate Reader System (ALPRs): a system provided, installed,
+and maintained by a service provider. Components of the system include a camera that
+automatically captures data; software systems that interpret, catalog, store, and purge
+data; and an interface where authorized employees can access data.
+
+-- 1 of 5 --
+
+OPD - 28.2
+Page 2 of 5
+B. ALPR Camera: A high-speed, computer-controlled camera that automatically
+captures ALPR data. ALPR cameras are in fixed locations, mobile, or attached to police
+cars.
+C. ALPR Data: Information captured, cataloged, and stored by the service provider and
+accessed by an authorized employee through a software interface. This information can
+be collected by the ALPR system, derived from the ALPR interface, or provided by the
+System Provider. ALPR Data can include but is not limited to: reports of date, time, and
+locations; summary and usage reports, photos, vehicle characteristics, and license plate
+characteristics.
+D. Alerts or hits: An automated notification is received through the ALPR interface
+when the ALPR system compares data to a Hot List or other parameters defined by an
+authorized employee.
+E. Authorized Employee: An employee who is granted access to the ALPR interface.
+F. Hot Lists: Lists or databases of license plates created by Criminal Justice Information
+Systems. The lists are automatically loaded into the ALPR system by the system
+provider. Data analyzed by ALPR’s is cross-referenced against the lists to generate Alerts
+or hits.
+G. Service Provider: The Department engages in a contract to provide ALPR services.
+An ALPR service provider who provides installation, maintenance, and digital storage of
+data.
+H. System Manager: A member of the Olivette Police Department who is responsible
+for the administration of the ALPR program. The System manager administers users and
+access to the ALPR system; coordinates the installation and maintenance of the system;
+ensures the ALPR system/cameras are functioning properly; and conducts audits as
+necessary to ensure compliance with the requirements of the law and this policy.
+IV. GUIDELINES FOR USE
+A. Prior to using the ALPR system, authorized employees will receive training on the
+ALPR system. Generally, this will occur during the field training process and will be
+completed by the Field Training Instructor, a Supervisor, or System Manager. Training
+should include an overview of the system, security of information, handling of ALPR
+data, familiarization with the ALPR interface, and a review of this policy. Periodically,
+the System Manager may coordinate familiarization and refresher sessions with the
+Service Provider to provide in-person training on the ALPR system.
+B. Police Department ALPR Cameras will be deployed in a manner that is determined to
+be in the best interest of the community and the Department. Locations for ALPR
+cameras will be determined by an analysis of information including, but not limited to
+crime data and trends.
+
+-- 2 of 5 --
+
+OPD - 28.2
+Page 3 of 5
+C. An ALPR system shall be used for official and legitimate law enforcement purposes.
+An ALPR system may be used in conjunction with any official Department operation,
+including criminal investigation or Department related civil or administrative actions.
+D. Reasonable suspicion or probable cause is not necessary before querying ALPR data
+however, a query should only be conducted for legitimate law enforcement purposes.
+E. An alert/hit from the ALPR system by itself does not amount to probable cause for
+non-consensual detention. However, an alert/hit combined with other observations,
+reasonable suspicion, or probable cause can justify a contact. Absent other articulable
+factors, ALPR alerts/hits shall be verified through Criminal Justice Information Systems
+prior to any contact with a vehicle and/or occupants.
+F. On-duty Officers assigned to a patrol function or special operation should monitor the
+ALPR interface for alerts/hits as part of their regular duties. Authorized employees are
+encouraged to use ALPR data in conjunction with their investigations. For instance,
+employees should query ALPR data when information is reported in criminal
+investigations such as partial license plates, vehicle characteristics, or location
+information.
+1.When conducting a query of ALPR data, a reason is required to be entered to
+conduct the search. The reason shall consist of the report number, or CAD
+incident number of the investigation. If a report number or CAD incident number
+has not been generated, the specific crime with level of severity associated with
+the query should be used (i.e. felony assault, misdemeanor theft, felony stolen
+vehicle etc.) Officers should be as specific as possible in their reasoning and avoid
+using only generic terms such as investigation, wanted, etc.
+2. Officers can manually enter license plate information directly into the ALPR
+system through the interface to generate a custom Hot list of local alerts/hits if
+they have reasonable suspicion to believe the entered license plate is associated
+with a crime. Local alerts/hits are reserved for license plates that are not being
+entered into NCIC but, are to be monitored as part of a legitimate law
+enforcement investigation.
+3. If a license plate is entered into NCIC, it will automatically be monitored by the
+ALPR system and should not be entered to generate local alerts/hits.
+4. Once the entering officer is made aware the local alert is no longer valid, they
+should immediately remove the alert from the ALPR system. NCIC alerts will
+automatically be removed from the ALPR system with the removal of the entry
+after NCIC cancellation.
+G. Notification settings for ALPR alerts/hits may vary based on many relevant factors.
+Patrol Officers and Patrol Supervisors should login and receive alerts/hits via
+
+-- 3 of 5 --
+
+OPD - 28.2
+Page 4 of 5
+desktop/MDT notification during their shift. Officers will have the discretion to activate
+SMS and/or Email alerts/hits. Officers should use their best judgment to determine the
+level, extent, and threshold for ALPR alerts/hits they receive while on duty.
+H. When an ALPR alert/hit leads to an arrest or the creation of a police report, the
+reporting officer shall include the use of the ALPR in the narrative of the report.
+I. Any technical or maintenance issues concerning the ALPR or system shall be brought
+to the attention of the ALPR System Manager who will coordinate with the service
+provider to address the issue.
+J. Misuse of the ALPR equipment and associated databases or data may result in
+disciplinary action.
+V. DATA SECURITY AND ACCESS:
+A. The ALPR service provider supplies an interface where users can access, search, and
+view data captured by ALPR systems for official use only. The System Manager
+determines who is an authorized employee based on their assigned duties. In general, all
+commissioned officers will be provided access to the ALPR system and other personnel
+as necessary.
+B. Data security and access will be maintained with the following safeguards:
+1. The ALPR System Provider will maintain data security and data access in
+compliance with our contractual agreement, appropriate industry standards, and
+applicable laws.
+2. The Department will control and restrict access to the ALPR system and its
+data to authorized employees who will be issued a unique username and
+password. Officers should only use their own unique login credentials to access
+the system and not that of any other officer. The System Manager will ensure all
+authorized employees maintain their access and revoke access when appropriate.
+The Service Provider will ensure the ALPR system records any data access, who
+accessed the information, what information was accessed, and when.
+3. Authorized employees are permitted to access the data for legitimate law
+enforcement purposes only.
+4. ALPR data is shared with other law enforcement agencies through Criminal
+Justice Information Systems and the ALPR system.
+VI. ALPR DATA COLLECTION AND RETENTION
+
+-- 4 of 5 --
+
+OPD - 28.2
+Page 5 of 5
+A. The ALPR Service Provider offers software and hardware solutions for automatic
+license plate detection. The Service Provider creates images and records of vehicles and
+provides notifications about suspected vehicles to users based on instructions of the end
+user (Olivette Police Officers).
+B. All footage is stored no longer than 30 days by the Service Provider in compliance
+with the Service Provider’s retention policy. Officers and Investigators are responsible
+for downloading and archiving footage from the Service Provider cloud servers prior to
+the purge date if it is needed for evidentiary reasons.
+C. If the ALPR data becomes evidence in a criminal or civil action, or it is reasonable to
+believe the ALPR data will be subject to a lawful subpoena, the data should be retained
+and entered as evidence.
+This General Order supersedes all prior directives and orders inconsistent therewith.
+BY ORDER OF:
+Signature on File
+Beth M. Andreski
+Chief of Police
+Effective Date: 10/9/2023
+Expiration Date: Indefinite
+
+-- 5 of 5 --
+

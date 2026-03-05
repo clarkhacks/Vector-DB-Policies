@@ -1,0 +1,150 @@
+OPD – 21.5
+Page 1 of 5
+DEPARTMENTAL GENERAL ORDER
+OLIVETTE POLICE DEPARTMENT
+OFFICE OF THE CHIEF OF POLICE
+Index as:
+Mobile Ticketing
+Missouri Uniform Complaint and Summons
+MUCS
+______________________________________________________________________________
+SUMMONS PREPARATION
+I. PURPOSE:
+The purpose of this General Order is to establish procedures for filling out a Missouri Uniform
+Complaint and Summons.
+II. PREPARATION:
+The Mobile Ticketing program will be the primary system for issuing summonses, citations and
+written warnings. In the event the Mobile Ticketing system is not functioning, officers will
+manually complete a Missouri Uniform Complaint and Summons from the department-issued
+triplicate ticket book. The procedures will be as follows:
+III. MOBILE TICKETING - CITATIONS:
+A. Log-in to the system utilizing the officer’s REJIS identification number and password.
+B. Verify that the shift settings are current.
+C. When entering a new ticket, choose the violation type (Local Ordinance) and then
+appropriate Ticket Type from the drop-down menu (Citation OR Parking)
+D. Start on the “Basics” tab. Required fields are labeled according to REJIS standards but
+available information should be entered.
+E. Location Tab – This tab is used to enter information about the violation location.
+F. Violator Tab – This tab is used to enter information about the violator.
+G. License Tab – This tab is used to enter operator license information.
+
+-- 1 of 5 --
+
+OPD – 21.5
+Page 2 of 5
+H. Vehicle Tab – This tab is used to enter vehicle information.
+I. Violation Tab – This tab is used to enter violation and charge information.
+J. Notes Tab – Used if additional facts are available to support the charge. This information
+will be visible on the violator’s copy.
+K. Officer Tab – This tab is used to confirm or modify officer data.
+L. Court Tab – This tab is used to confirm court data.
+M. Remarks Tab – This tab is used to enter officer remarks which will not appear on the
+violator’s printed ticket.
+N. Witness Tab – This tab is used to enter witness data, if needed.
+O. Employment Tab – This tab is used to enter violator’s employment data, if needed
+P. Photos Tab – This tab is not used by this department.
+Q. Select “Save and Print” or “Print and Copy” if multiple tickets are to be issued.
+R. Statistical traffic analysis information will be electronically transmitted to REJIS once
+manually entered by the issuing officer.
+IV. MOBILE TICKETING - WRITTEN WARNINGS
+If the officer determines that a citation is not an appropriate action for a traffic offense, he/she
+may instead issue the violator a written warning through the Mobile Ticketing system. The
+action is like issuing a citation:
+A. Log-in to the system utilizing the officer’s REJIS identification number and password.
+B. Verify that the shift settings are current.
+C. When entering a new ticket, choose the violation type (Local Ordinance) and then
+appropriate Ticket Type from the drop-down menu (Citation OR Parking)
+D. Start on the “Basics” tab. Required fields are labeled according to REJIS standards but
+available information should be entered.
+E. Location Tab – This tab is used to enter information about the violation location.
+F. Violator Tab – This tab is used to enter information about the violator.
+
+-- 2 of 5 --
+
+OPD – 21.5
+Page 3 of 5
+G. License Tab – This tab is used to enter operator license information.
+H. Vehicle Tab – This tab is used to enter vehicle information.
+I. Violation Tab – This tab is used to enter violation category. Other information related to
+the violation category may be entered. This information will be visible on the violator’s
+copy.
+J. Officer Tab – This tab is used to confirm or modify officer data.
+K. Remarks Tab – This tab is used to enter officer remarks which will not appear on the
+violator’s printed ticket.
+V. HAND-WRITTEN MISSOURI UNIFORM COMPLAINT AND SUMMONS:
+A. Operate, Park, A.C.M.V, with HazMat boxes: Check “Operate” for traffic violations,
+check “Park” for parking violations, check “A.C.M.V.” and/or “with HazMat” if the
+vehicle is a commercial motor vehicle or has a hazardous materials placard(s).
+B. Ord/RSMo boxes: The ordinance number is required unless the violator is being charged
+in state court then the RSMo is required.
+C. Complaint number: If the violator is physically arrested, the complaint number of the
+written report that corresponds to the arrest shall be written on the summons.
+D. Court Date: Specify an appearance on the court date as noted specifically by the
+Municipal Court; “To Be Notified” (TBN) for State Court and St. Louis County Family
+Court.
+E. Court time is 6:00 PM for Municipal Court; “To Be Notified” (TBN) for State Court and
+St. Louis County Family Court.
+F. Crash involvement: Write the correct report number on the summons and check the "in
+accident" box.
+G. DWI/BAC: Check the ‘DWI/BAC’ box if the violator is charged with a DWI/BAC
+related offense.
+H. Officer's Signature
+I. Prosecutor’s Signature: Leave blank unless ticket is for a juvenile under 15 years of age.
+In that case, enter “Family Court”.
+J. Notes Section of Officer’s Copy: For juveniles under 15 years of age indicate:
+a. Parent(s) names;
+
+-- 3 of 5 --
+
+OPD – 21.5
+Page 4 of 5
+b. Contact telephone number(s);
+c. Parent(s) occupation; and
+d. Juvenile’s school and grade.
+K. Driver’s Licenses taken: Must be marked yes if taken (mark on back of violator’s copy).
+Exceptions: Out-Of-State Drivers Licenses: Drivers licenses of violators who are from
+other states will not be taken.
+L. The officer should make personal notes on the reverse of the "pink" copy of any ticket.
+VI. PROCEDURE
+1. All tickets will be reviewed by the immediate supervisor for accuracy prior to the end of
+the officer’s shift. Officer copies of Mobile Ticketing entries will be placed in the Record
+Clerk’s mailbox located in the Squad Room. Manually completed summonses will be
+placed in the Court lockbox.
+2. In the event it becomes necessary for a summons to be entered into Mobile Ticketing (if
+hand-written ticket is created), amended, voided, or other action to be performed on the
+ticket, the officer who issued the summons will prepare a Summons Action Request
+(OPD - F1103) detailing the reasons for the action. The form will be forwarded through
+the chain of command to the Deputy Chief who will forward it to Court, if needed.
+3. Watch commanders, along with Court personnel, will ensure that an adequate supply of
+handwritten tickets is secured in the Roll Call Room. A supervisor will issue tickets to an
+officer as needed. The officer receiving the tickets will initial the logbook taking
+responsibility for the tickets assigned to him/her.
+4. Damaged, lost, or stolen summonses will be reported in writing immediately to the
+appropriate supervisor, who will in turn investigate the matter and report their findings to
+the Deputy Chief.
+5. Summons charge disposition, including amendments and dismissals, is the responsibility
+of the Courts Division.
+6. Upon employment with this Department, officers will be issued a ticket book to be used
+when Mobile Ticketing is not available. During the annual formal line inspection, ticket
+books will be reviewed with Court records to ensure that no tickets are damaged, lost or
+stolen.
+This General Order supersedes all prior directives and orders inconsistent therewith.
+
+-- 4 of 5 --
+
+OPD – 21.5
+Page 5 of 5
+BY ORDER OF:
+Signature on File
+Beth M. Andreski
+Chief of Police
+Effective Date: 06/30/2009
+Revised: 4/7/2014
+Revised: 7/22/2016
+Revised: 3/20/2018
+Revised: 5/26/2020
+Revised: 12/5/2023
+Expiration Date: Indefinite
+
+-- 5 of 5 --
+

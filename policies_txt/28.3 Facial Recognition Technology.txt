@@ -1,0 +1,95 @@
+OPD - 28.3
+Page 1 of 3
+DEPARTMENTAL GENERAL ORDER
+OLIVETTE POLICE DEPARTMENT
+OFFICE OF THE CHIEF OF POLICE
+Index as:
+Facial Recognition
+FACIAL RECOGNITION TECHNOLOGY
+I. PURPOSE
+The purpose of this General Order is to establish guidelines for the implementation and
+acceptable use of facial recognition technology.
+II. POLICY
+It is the policy of the Olivette Police Department to use facial recognition technology legally and
+ethically as a legitimate investigative tool for law enforcement purposes. This policy shall apply
+to all employees who are authorized access to any facial recognition system and are permitted to
+request facial recognition searches. Employees will follow the procedures for system use as set
+forth by the service provider’s acceptable use policy and as outlined in this General Order. Any
+misuse by employees of the facial recognition system or data obtained is strictly prohibited and
+may result in disciplinary action.
+III. DEFINITIONS
+A. FACIAL RECOGNITION TECHNOLOGY – A biometric software application that uses
+specific proprietary algorithms to compare facial features from one specific picture - a probe
+image - to many others to determine the most likely candidate for further investigation.
+B. PROBE IMAGE – An image of an unidentified person lawfully obtained pursuant to an
+authorized criminal investigation used by facial recognition software for comparison with the
+face images contained within a face image repository.
+C. INVESTIGATIVE LEAD – Any information which could potentially aid in the successful
+resolution of an investigation but does not imply positive identification of a subject or that the
+subject is guilty of a criminal act.
+IV. GUIDELINES FOR USE
+A. Any deployment of facial recognition technology is for official law enforcement use only and
+is law enforcement sensitive. Authorized uses of facial recognition technology:
+
+-- 1 of 3 --
+
+OPD - 28.3
+Page 2 of 3
+1. When there is reasonable suspicion that an identifiable individual has committed a
+criminal offense, is involved in criminal conduct, or poses a threat to any individual,
+the community, or the nation. This includes individuals involved in or planning
+terrorist activities.
+2. To support ongoing investigations into criminal activities or homeland security
+threats, providing crucial leads and identification capabilities.
+3. To assist in identifying individuals who are unable to identify themselves due to
+incapacitation, including deceased individuals or those who are at risk, such as
+missing persons, vulnerable adults, or children.
+4. To verify and corroborate information obtained through tips and leads in the course of
+an investigation, ensuring the accuracy and reliability of the information received.
+5. To aid in identifying individuals who may be witnesses or victims in cases of violent
+crime, thus assisting in the investigative process and ensuring their protection and
+assistance.
+B. Potential matches returned by a facial recognition system are not a form of positive
+identification and results are to be considered an investigative lead only and shall not be used as
+the sole basis for detention, arrest, identification, or request for a warrant.
+C. Any possible connection or involvement of a subject identified through a facial recognition
+system should be confirmed through further investigative measures.
+D. Employees who utilize facial recognition technology shall document use in the associated
+police report.
+E. Employees who utilize facial recognition technology shall comply with all applicable federal,
+state, and local laws and regulations, including the CJIS Security Policy.
+V. PROHIBITED USE
+A. The Olivette Police Department prohibits access to and use of facial recognition technology,
+including dissemination of facial recognition search results, for the following:
+1. Must not be used for personal purposes or non-law enforcement activities.
+2. Must not be used to monitor or investigate individuals or groups based solely on their
+religious, political, or social views or activities; their participation in noncriminal
+organizations or lawful events; or their races, ethnicities, citizenships, places of origin,
+ages, disabilities, genders, gender identities, sexual orientations, or any other
+classification protected by law.
+
+-- 2 of 3 --
+
+OPD - 28.3
+Page 3 of 3
+3. Must not be used to harass, intimidate, or unlawfully surveil any individual or group.
+4. Must not be used in a manner that violates the privacy rights of individuals, including
+unlawful surveillance and data collection.
+B. Employees who utilize facial recognition technology will protect the confidentiality of all data
+accessed through the software and will not disclose it to unauthorized individuals.
+C. Unauthorized access to or use of the facial recognition technology or the data contained
+within is strictly prohibited and only employees who have been granted access rights by the
+Olivette Police Department may use the technology.
+D. Employees who misuse facial recognition technology will be subject to disciplinary action up
+to and including termination and potentially other applicable criminal penalties.
+This General Order supersedes all prior directives and orders inconsistent therewith.
+BY ORDER OF:
+Signature on File
+Beth M. Andreski
+Chief of Police
+Effective Date: 6/6/2024
+Revised: 6/13/2024
+Expiration Date: Indefinite
+
+-- 3 of 3 --
+

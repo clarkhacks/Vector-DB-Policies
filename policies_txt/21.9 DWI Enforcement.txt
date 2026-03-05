@@ -1,0 +1,534 @@
+OPD - 21.9
+Page 1 of 15
+DEPARTMENTAL GENERAL ORDER
+OLIVETTE POLICE DEPARTMENT
+OFFICE OF THE CHIEF OF POLICE
+Index as:
+Driving While Intoxicated
+Sobriety Checkpoints
+Zero Tolerance
+Field Sobriety Testing
+DWI ENFORCEMENT
+I. PURPOSE
+A. It is the purpose of this General Order to establish procedures to be followed in the
+handling of Driving While Intoxicated suspects.
+B. The objective of DWI enforcement is the reduction of alcohol and/or drug related
+traffic crashes. All officers will be alert for DWI violations and will take appropriate
+actions when violations are detected.
+In addition to the vigilance of patrol officers, the Department will conduct special DWI
+enforcement programs including special DWI patrols which may include overtime patrols
+targeting specific roadways where statistics show a higher than normal rate of DWI
+related crashes or arrests; and sobriety checkpoints may be conducted as a deterrent to
+drinking and driving through an increased public awareness of the greater chance of
+apprehension of violators who would normally escape detection unless observed in some
+other violation or were involved in a crash.
+C. All intoxication-related arrest information is uploaded to DWITS via the departmental
+record management system, and subsequently forwarded to the central repository as
+required by section 43.503 RSMo. The Department shall furnish, without undue delay, to
+the central repository, fingerprints, photograph, and if available, any other unique
+biometric identification collected, charges, appropriate charge codes, and descriptions of
+all persons who are arrested for such offenses on standard fingerprint forms supplied or
+approved by the highway patrol or electronically in a format and manner approved by the
+highway patrol and in compliance with the standards set by the Federal Bureau of
+Investigation in its Automated Fingerprint Identification System or its successor program.
+
+-- 1 of 15 --
+
+OPD - 21.9
+Page 2 of 15
+II. DEFINITIONS
+A. INTOXICATED CONDITION – In Missouri, a person is in an “intoxicated
+condition” when he/she is under the influence of alcohol, a controlled substance, or drug
+or a combination thereof.
+B. DWI – Driving While Intoxicated
+C. BAC – Blood Alcohol Content
+D. RSMO – Revised Statutes of Missouri
+E. AIR – Alcohol Influence Report
+F. DOR – Missouri Department of Revenue
+G. DOH – Missouri Department of Health
+H. SFST – Standard Field Sobriety Test
+I. HGN – Horizontal Gaze Nystagmus
+J. VN – Vertical Nystagmus
+K. OLS – One Leg Stand
+L. WAT – Walk and Turn
+M. REFUSAL – Verbally refuses, or by inaction or unresponsiveness, refuses one or
+both requested chemical tests in any manner.
+N. CHEMICAL TEST – The policy of this Department is to only request the State of
+Missouri recognized breath or blood test.
+O. PBT – Preliminary Breath Test Instrument (Intoximeter Alco-Sensor FST or its
+successor equipment)
+P. EVIDENTIARY BREATH INSTRUMENT – Intoximeters EC-IR 2
+III. APPLICABLE LAWS
+A. City of Olivette Ordinance:
+Section 342.020 – Driving While Intoxicated
+
+-- 2 of 15 --
+
+OPD - 21.9
+Page 3 of 15
+The charge of Driving While Intoxicated will be used if the suspect has
+no (zero) prior DWI/Driving with Excessive BAC arrests. If the suspect
+has one (1) or more alcohol related driving arrests, he/she will be
+charged with DWI-Prior Offender.
+B. Missouri State Charges:
+1. RSMO 577.010 – Driving While Intoxicated
+This charge will be used when the suspect has two or more alcohol
+related driving arrests. This is also used when the results of the chemical
+test(s) are not known. Blood samples seized while at the hospital may
+take two (2) or more months to be analyzed once taken to the Missouri
+State Highway Patrol Lab or service center.
+2. RSMO 302.405 – Abuse and Lose – Persons 21 years of age and older
+Any person in possession of a controlled substance while operating a
+motor vehicle may be charged with “Abuse and Lose”. The amount of
+controlled substance is not a factor. Abuse and lose administered by, and
+is controlled by the Olivette Municipal Court.
+3. RSMO 302.400 – Abuse and Lose – Persons under 21 years of age (see
+juvenile section)
+Any person in possession of a controlled substance or alcohol while
+operating a motor vehicle may be charged with “Abuse and Lose”. The
+amount of controlled substance or alcohol is not a factor.
+4. RSMO 577.020 – Zero Tolerance
+a) This charge is only used for persons under 21 years of age with a BAC
+from .02 to .079. In the Implied Consent warnings on page three (3) of the
+AIR, there is a box for “Zero Tolerance”. This box is normally checked
+when the suspect is underage and DWI. If the suspect agrees to take the
+breath test, do not check the box until the results are obtained. If the test
+result is .08 or greater, the officer will charge an underage suspect with
+Driving While Intoxicated. If the suspect is obviously impaired and
+refuses a chemical test, charge him/her with RSMO 577.010 DWI.
+b) Zero Tolerance is an administrative process only that is handled
+through the DOR and the DOH. No summons will be issued unless there
+is another unrelated offense. If Zero Tolerance was the only reason for the
+suspect being arrested, there will be no booking procedures done. Simply
+complete the AIR and CARE reports. Persons suspected of violating this
+
+-- 3 of 15 --
+
+OPD - 21.9
+Page 4 of 15
+law must submit to a chemical test. Refusal to submit to the chemical test
+will result in the arrestee being processed as DWI.
+5. The State of Missouri has a progressive scale on the prosecution of repeat
+offenders. The following is an example of how the scale is defined:
+a) First time offense – class B misdemeanor
+b) Second Offense – If the suspect has a prior DWI conviction, he/she
+will be charged with a class A misdemeanor. The booking charge
+description will state “Prior Offender”.
+c) Third Offense – If the suspect has two (2) or more alcohol related
+traffic convictions, the third conviction will be a class D felony. The
+booking charge description will state “Persistent Offender”. IF A
+FELONY DWI SUSPECT REFUSES EITHER CHEMICAL TEST, A
+SEARCH WARRANT MUST BE OBTAINED via the St. Louis County
+Prosecuting Attorney’s Office. If a search warrant is necessary, follow
+the electronic search warrant procedures.
+d) When creating a search warrant, the forms request the social security
+number of the suspect in the warrant application, affidavit, and warrant
+itself. These items are encrypted to keep the information confidential. If
+you only use the last four of the SSN (ie: XXX-XX-2788) the information
+will not need be encrypted with the codes listed in the manual, per St.
+Louis County Prosecuting Attorneys office.
+e) If a search warrant is granted and executed, it is the responsibility of the
+arresting officer to complete the return and inventory and have the search
+warrant registered with the Associate Circuit Court. A warrant packet will
+need to be completed, that includes the DWITS printouts showing the two
+prior convictions of the offender and must be submitted to the prosecutor’s
+office within 30 days.
+IV. TESTING
+A. Field Sobriety Tests
+1. There are several field tests that are widely used in Missouri. The Standard
+Field Sobriety Tests consist of the following three (3) tests:
+a) The One Leg Stand (OLS);
+b) The Walk and Turn (WAT); and
+c) The Horizontal Gaze Nystagmus (HGN).
+
+-- 4 of 15 --
+
+OPD - 21.9
+Page 5 of 15
+2. Road conditions, weather and the suspect’s safety should be considered when
+deciding to administer these tests.
+3. If the officer has no formal training in the SFST’s, do not attempt to administer
+these tests. Common sense field sobriety tests are still acceptable in the courts of
+Missouri. Common sense tests include alphabet tests, counting tests and divided
+attention tests.
+4. Olivette officers will utilize a six test battery of field sobriety tests when
+feasible. The standard SFST’s (HGN, WAT, OLS) will be administered. Officers
+will also administer an alphabet test, a counting test, and use the supplied
+preliminary breath testers (PBT).
+B. PBT Test
+1. This test may be administered by the officer and no certification or license is
+required.
+2. Before using the Preliminary Breath Test (PBT), s/he will read the instruction
+manual and be familiar with device nomenclature.
+3. This test will not be used as the only field sobriety test. These instruments are
+not certified by the DOH. Arrest decision will not solely be based on the PBT but
+a totality of the circumstances.
+4. Officers should use a new mouthpiece for each attempt made by the suspect to
+supply an adequate breath sample.
+5. When using the PBT as a field sobriety test, the officer should note in his/her
+report that the instrument detected a presence of alcohol above/below .08 BAC.
+Do not list the observed value of the instrument in the narrative.
+C. Blood Test
+1. These tests will be performed at the hospital by the emergency room staff or
+other designated facility. These tests are more specific because you can have the
+sample tested for narcotics as well as alcohol. Since RSMO 577.010 DWI
+includes Driving under the Influence of a Controlled Substance or Drug, no
+separate charge is required.
+2. These tests should be requested when an officer is presented with an obviously
+impaired person and little or no breath BAC is detected. Since Missouri state law
+provides for requesting two separate tests, you may request a blood test to check
+for the presence of narcotics.
+
+-- 5 of 15 --
+
+OPD - 21.9
+Page 6 of 15
+3. Prior to blood being drawn, the suspect will be advised of his/her Implied
+Consent warnings, unless unconscious. Unconscious persons have not forfeited
+their right to refuse a blood draw. Blood draws of an unconscious person must be
+done under the authority of a search warrant.
+4. When having blood drawn at the hospital, officers will use the supplied
+Missouri State Highway Blood Draw Kit and follow the supplied instructions.
+Officers should have two tubes of blood drawn at the time of the procedure.
+a) Complete “Laboratory Analysis Request” form from the MSHP to be
+included with blood sample
+b) Check test tubes for expiration date.
+c) Turn test tubes upside down at least ten (10) times.
+d) Seize the preparation pad and gloves used by the medical personnel
+drawing blood.
+e) Obtain the name and title of the person drawing the blood for the police
+report and chain of custody of evidence.
+f) The supplied Blood Draw Kit will be sealed and placed in the evidence
+refrigerator in the Evidence Processing area of this Command.
+Notification will be made to the Detective Bureau by email and voicemail
+about the evidence in the refrigerator.
+g.) A St. Louis County Evidence receipt form must be completed for the
+chain of custody of the blood samples.
+5. The hospital may conduct a “rapid screen” to determine alcohol or drug
+content of the suspect’s blood, this is for medical purposes only. This test is not
+sufficient to obtain a DWI conviction. The blood samples seized from the suspect
+must be taken to Missouri State Highway Patrol Crime Lab/Service Center (or
+other approved facility) for analysis. Testing blood drawn from a suspect for
+either alcohol or narcotics (illegal and/or prescription) will be conducted by the
+Missouri State Highway Patrol Lab. If the suspect admits to taking a specific
+medication/drug, note this on the evidence receipt. A St. Louis County
+Evidence Chain of Custody Report Form must be completed to show chain of
+custody.
+V. REQUIRED FORMS
+A. DOR Form #2389 – Alcohol Influence Report (fillable PDF on PD server)
+Note: When filling out the AIR, use the same clock for all times on all forms.
+
+-- 6 of 15 --
+
+OPD - 21.9
+Page 7 of 15
+Every alcohol related traffic offense must have an AIR completed. Pay close
+attention to the Miranda warnings and Implied Consent warnings. The interview
+of the suspect should be completed by the arresting officer unless extenuating
+circumstances apply. (i.e. resisting arrest, etc.) Do not read Miranda warnings
+until after the completion/refusal of the breath/blood test. Only the fillable PDF
+version of the AIR dated 08/2018 or newer will be used. If during completion of
+Implied Consent warnings and request of a breath/blood test, the suspect requests
+an attorney, he/she should be given 20 minutes to contact an attorney of their
+choice. A telephone book should be made available if requested. The suspect shall
+be placed in the secure private attorney visitation room of the booking area with
+access to a telephone. At the conclusion of the 20-minute period, he/she will be
+returned to the booking area and re-read Implied Consent warnings for a decision
+of the test.
+B. DOR Form #4323 – Notice of Revocation/15 Day Driving Permit for Refusal to
+Submit to a Chemical Test
+1. This form is completed when the suspect refuses one or both requested
+chemical tests. Since Missouri state law provides that two (2) tests may be
+requested, a refusal of one is considered a refusal for all. This does not apply to
+the refusal to submit to field sobriety tests.
+2. If a suspect’s Missouri state driver’s license is suspended, revoked, or denied
+or the suspect is licensed to drive in another state, DO NOT issue them a
+temporary driving permit. Simply mark out the temporary driving permit section
+and write in the status of their driver’s license or issuing state. If available, seize
+the Missouri driver’s license. Do not seize out of state driver’s licenses.
+Complete the remainder of the form as required.
+C. DOR Form #2385 – Notice of Suspension/15 Day Driving Permit
+1. This form should be completed when the suspect has a valid Missouri driver’s
+license and the results of the chemical test are .08 BAC or greater.
+2. The officer will give the suspect a copy of the form, seize the suspect’s
+Missouri driver’s license and attach it to the report.
+3. If a suspect’s Missouri state driver’s license is suspended, revoked, or denied
+or the suspect is licensed to drive in another state, DO NOT issue them a
+temporary driving permit. Simply mark out the temporary driving permit section
+and write in the status of their driver’s license or issuing state. If available, seize
+the Missouri driver’s license. Do not seize out of state driver’s licenses.
+Complete the remainder of the form as required.
+
+-- 7 of 15 --
+
+OPD - 21.9
+Page 8 of 15
+4. This form is not used for suspect narcotic impaired motorists. There is no
+illegal per se level of narcotics in the blood. This form is for suspects who take
+the offered test and a reading of .08 BAC or greater is received.
+D. Department Form #OPD – F1026 City of Olivette Recoupment of Funds Form
+The City is allowed to recoup expenses incurred due to the arrest, prosecution,
+and incarceration of alcohol related traffic offenses. Officers will complete the
+form (Omniform) with suspect’s information, hours worked, and assisting
+officer’s names. The supervising officer will complete the form with officer’s
+rate of pay and testing costs and forward it to the Municipal Court.
+E. MSHP Laboratory Analysis Request Form
+Officers shall complete a Missouri State Highway Patrol Analysis Request Form
+that will accompany the blood sample. This form is used by the Missouri
+Highway Patrol as its official form. This form does not show chain of custody of
+the sample, so a St. Louis County Evidence Chain of Custody Report Form
+must be completed to show chain of custody.
+VI. DWI ARREST PROCEDURES
+A. Arrests
+1. All arrests will be based on probable cause. It is not necessary that the officer
+witness the suspect driving if there are witnesses or other evidence to prove that
+the suspect was driving.
+2. If an officer suspects a driver of DWI, the officer should administer SFST’s at
+the scene unless otherwise directed by the shift commander. If the officer is not
+SFST qualified, s/he should request assistance from a qualified officer, unless
+otherwise directed by the shift commander.
+3. If the impaired arrestee has caused a crash and another person was injured, the
+suspect should be charged with Assault 2nd Degree and warrant application made
+to the St. Louis County Prosecuting Attorney on all related charges. Do not issue
+summonses.
+4. The suspect may be charged with Municipal and/or State charges (i.e. DWI in
+Municipal court and guns, drugs, etc. in State Court). If the arrestee has two prior
+convictions for DWI, the third offense is a felony and warrant application must be
+made to the St. Louis County Prosecuting Attorney. Do not issue summonses if
+warrant application will be made.
+5. An arrestee that is injured or extremely intoxicated should be taken to the
+hospital for examination prior to booking. The name of the examining physician
+
+-- 8 of 15 --
+
+OPD - 21.9
+Page 9 of 15
+and a diagnosis will be included in the report. A fit-for-confinement form from
+the hospital will be attached to the report.
+6. Officers may request (time and manpower permitting) the assistance of a Drug
+Recognition Expert (DRE) to assist in evaluation of an impaired motorist to
+further the enforcement of driving while intoxicated and/ or under the influence of
+drugs.
+B. Video Recording
+1. If the arrestee was involved in a fatal or potentially fatal crash (Required by
+Missouri State Law) or if the officer or supervisor otherwise believes it necessary,
+a video recording will be made to document:
+a. SFST’s;
+b. Miranda Rights warning;
+c. Interview session;
+d. Missouri Implied Consent warning; and
+e. Breath test.
+2. The video recording will be properly packaged and submitted to Evidence.
+C. City of Olivette Ordinance Violations
+1. Arrest suspect for DWI.
+2. Check DOR records for prior alcohol related traffic arrests. If a suspect has
+one prior DWI/Excess BAC arrest, he/she will be charged with DWI-Prior
+through Olivette Municipal Court and the following procedure applies. If two or
+more prior arrests, he/she must be charged through Missouri state court.
+3. Request chemical test of breath
+A. Suspect refuses to take test
+(1) Book suspect and issue summons for DWI – Section 342.020
+in Mobile Ticketing. If the suspect has one prior arrest, issue
+summons for DWI-prior – Section 342.020 in Mobile Ticketing.
+Check the DWI/BAC box on summons and type in “REF” in Test
+Results box. On manually completed summons, check the
+DWI/BAC box and write “Refusal” on summons. Officers may
+complete a search warrant application with the St. Louis County
+
+-- 9 of 15 --
+
+OPD - 21.9
+Page 10 of 15
+Prosecuting Attorney’s office for the retrieval of the suspect’s
+blood sample.
+(2) Book suspect for original traffic charge(s) and issue applicable
+summonses. Check DWI/BAC box on each summons issued.
+(3) Issue notice of Revocation/15 Day Driving Permit for Refusal
+to Submit to Chemical Test – DOR Form #4323, if applicable
+(4) Seize and attach suspect’s Missouri driver’s license, if
+available. DO NOT SEIZE OUT OF STATE DRIVERS’
+LICENSES.
+(5) Complete Recoupment of Funds Form #OPD – 1026 except
+hourly wage portion.
+(6) Release suspect as circumstances require.
+B. Suspect takes test – Test results are .08 BAC or greater
+(1) Book suspect and issue summons for DWI – Section 342.020
+in Mobile Ticketing. If the suspect has one prior arrest, issue
+summons for DWI-prior – Section 342.020 in Mobile Ticketing.
+Check the DWI/BAC box on summons and type numerical test
+value in Test Results box. On manually completed summons,
+check the DWI/BAC box and write numerical test value on
+summons.
+(2) Book suspect for original traffic charge(s) and issue applicable
+summonses. Check DWI/BAC box on each summons issued.
+(3) Issue notice of Suspension/15 Day Driving Permit – DOR
+Form #2385, if applicable.
+(4) Seize and attach suspect’s Missouri driver’s license, if
+available. DO NOT SEIZE OUT OF STATE DRIVERS’
+LICENSES.
+(5) Complete Recoupment of Funds Form #OPD – 1026 except
+hourly wage portion.
+(6) Release suspect as circumstances require.
+C. Suspect takes test – Test results less than .08 BAC
+
+-- 10 of 15 --
+
+OPD - 21.9
+Page 11 of 15
+(1) Suspect may be charged with DWI – Section 342.020 if
+additional evidence supports charge.
+(2) If the suspect is obviously impaired and the result of the test is
+little or no breath BAC, a blood test needs to be requested.
+D. Suspect takes test – Results less than .08 BAC and suspect is under 21
+years of age
+(1) Suspect should be charged through Missouri state court under
+Zero Tolerance law. See Section III, B, 5
+D. Missouri State Law Violations
+1. Arrest suspect for DWI.
+2. Check DOR records for prior alcohol related traffic arrests. If the suspect has
+two or more prior DWI/Excess BAC arrest(s), he/she must be charged through
+Missouri state court.
+3. Request chemical test of breath
+A. Suspect refuses to take test
+(1) For felony DWI charges, search warrant application shall be
+made with the St. Louis Count Prosecuting Attorney’s office for
+the retrieval of the suspect’s blood sample.
+(2) Book suspect for DWI traffic charge under RSMO 577.010
+(persistent, aggravated, chronic, or habitual) and issue applicable
+municipal traffic summonses. Check DWI/BAC box on each
+summons issued and type REF in the Test Results box.
+(3) Issue notice of Revocation/15 Day Driving Permit for Refusal
+to Submit to Chemical Test – DOR Form #4323, if applicable.
+(4) Seize and attach suspect’s Missouri driver’s license, if
+available. DO NOT SEIZE OUT OF STATE DRIVERS’
+LICENSES.
+(5) Release suspect P.A.W. (pending application of warrant) as
+circumstances require.
+(6) Warrant application is made with the St. Louis County
+Prosecuting Attorney’s office for the DWI charge. All other
+
+-- 11 of 15 --
+
+OPD - 21.9
+Page 12 of 15
+applicable traffic charges are referred to the Olivette Municipal
+Court.
+B. Suspect takes test – Test results are .08 BAC or greater
+(1) Book suspect for DWI traffic charge under RSMO 577.010
+(persistent, aggravated, chronic, or habitual) and issue applicable
+municipal traffic summonses. Check DWI/BAC box on each
+summons issued and type numerical test value in Test Results box.
+(2) Issue notice of Suspension/15 Day Driving Permit – DOR
+Form #2385, if applicable.
+(3) Seize and attach suspect’s Missouri driver’s license, if
+available. DO NOT SEIZE OUT OF STATE DRIVERS’
+LICENSES.
+(4) Release suspect P.A.W. (pending application of warrant) as
+circumstances require.
+(5) Warrant application is made with the St. Louis County
+Prosecuting Attorney’s office for the DWI charge. All other
+applicable traffic charges are referred to the Olivette Municipal
+Court.
+C. Suspect takes test – Test results less than .08 BAC
+(1) Suspect may be charged with DWI – RSMO 577.010 if
+additional evidence supports charge
+(2) Missouri state law only requires that suspect shows enough
+clues of impairment by use of the SFST’s. A breath alcohol
+reading of .08 is not a requirement for DWI.
+E. Juveniles
+1. Under 15 years of age – Complete Alcohol Influence Report and
+CARE report. Refer to St. Louis County Family Court
+2. 15 to Under 18 years of age – Process as an “adult”.
+VII. SOBRIETY CHECKPOINTS
+Sobriety checkpoints will be conducted within the guideline of the Missouri Department
+of Transportation, Traffic and Highway Safety Division and the following procedures:
+
+-- 12 of 15 --
+
+OPD - 21.9
+Page 13 of 15
+1. Sobriety checkpoints will be conducted only upon order of the Chief of Police.
+2. Selection of the site and time of sobriety checkpoints will be based upon DWI
+statistical information and will take into consideration safety factors such as
+traffic flow and visibility.
+3. Staffing of checkpoints will be done in a manner so as not to interfere with the
+normal operations of the Department.
+4. Sobriety checkpoint procedures
+a. Public notice, including press releases, will be given a minimum of
+seventy-two (72) hours prior to the initiation of a checkpoint. The actual
+location of the checkpoint will not be included in the public notice.
+b. In order to ensure the safety of the public and the officers assigned to
+the checkpoint, as well as to minimize inconvenience to motorists, each
+checkpoint will be staffed by a minimum of five (5) uniformed officers
+each assigned specific duties.
+5. The checkpoint supervisor shall be trained by the Missouri Department of
+Transportation, Traffic and Highway Safety Division and/or the Missouri Safety
+Center in Sobriety Checkpoint legal, technical and logistical issues. The
+checkpoint supervisor will:
+a. Develop a written plan for each checkpoint;
+b. Conduct a briefing prior to the checkpoint during which he/she will:
+(1) Outline the overall checkpoint plan to the officers assigned;
+(2) Stress the need for safety;
+(3) Ensure that all officers assigned are aware of the goals and
+procedures;
+(4) Make personnel assignments;
+(5) Review the standard motorist greeting that will be used by
+officers assigned.
+c. Take charge of the overall supervision of the checkpoint and the officers
+assigned;
+
+-- 13 of 15 --
+
+OPD - 21.9
+Page 14 of 15
+d. Complete a summary report of the checkpoint results as well as any
+other reports which may be required by the Missouri Division of Highway
+Safety.
+6. Officers assigned to the sobriety checkpoint will:
+a. Contact each driver in a polite and courteous manner and as briefly as
+possible:
+(1) Identify him/herself and explain the checkpoint;
+(2) Ask the driver for his/her license and proof of insurance;
+(3) Carefully check each driver for signs of intoxication and, if
+alcohol/drug influence is suspected, remove the driver from the
+vehicle to the area designated for field sobriety testing;
+(4) The suspect vehicle will be moved from the checkpoint lane.
+b. Administer full battery of tests, to include SFST’s, alphabet, counting,
+and PBT to those drivers suspected of being under the influence of alcohol
+or drugs.
+c. If the driver satisfactorily performs the SFST’s he/she will be allowed to
+proceed.
+d. If the results of the SFST’s lead the officer to believe the driver is
+impaired, s/he will be taken into custody to submit to a chemical test.
+e. Promptly prepare an AIR and any related forms or permits.
+f. Follow booking procedures established for the checkpoint.
+VIII. TOWED VEHICLE RELEASE
+When a suspect is arrested for DWI and the vehicle they operated is towed, a tow release
+shall not be issued for at least 24 hours following the arrest. This waiting period does not
+apply when issuing a tow release to the vehicle’s registered owner, provided the
+registered owner is not the arrested suspect.
+This General Order supersedes all prior directives and orders inconsistent therewith.
+BY ORDER OF:
+Signature on File
+Beth M. Andreski
+Chief of Police
+
+-- 14 of 15 --
+
+OPD - 21.9
+Page 15 of 15
+Effective Date: 6/16/2010
+Revised: 12/20/2010
+Revised: 2/18/2011
+Revised: 7/22/2016
+Revised: 3/20/2018
+Revised: 4/2/2020
+Revised: 4/8/2020
+Revised: 2/23/2021
+Revised: 1/5/2024
+Revised: 3/11/2024
+Revised: 11/18/2025
+Expiration Date: Indefinite
+
+-- 15 of 15 --
+

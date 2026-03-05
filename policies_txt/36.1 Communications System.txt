@@ -1,0 +1,452 @@
+OPD – 36.1
+Page 1 of 11
+DEPARTMENTAL GENERAL ORDER
+OLIVETTE POLICE DEPARTMENT
+OFFICE OF THE CHIEF OF POLICE
+Index as:
+Communications
+911 Systems
+Computer Aided Dispatching
+Radio Procedures
+Severe Weather
+Disasters
+Mutual Assistance
+__________________________________________________________________________________
+COMMUNICATIONS
+I. POLICY:
+The purpose of this policy is to outline the operational procedures used by the East Central Dispatch
+Center (ECDC).
+II. RADIO COMMUNICATIONS CENTER:
+A. Radio communications will be provided by the East Central Dispatch Center (ECDC) who will
+provide efficient response and assistance to the citizens requesting emergency service. The East Central
+Dispatch Center is also charged with providing dispatching and related police information services as
+well as general information and non-emergency assistance to the citizens.
+B. The East Central Dispatch Center is located inside the Richmond Heights Police Department. The
+Dispatch Center is located in a secured area where electronic key access is needed. The Dispatch Center
+maintains a recording and playback system. All recordings are stored on a secure hard drive system.
+Dispatch supervisors have access to listen to recordings. Officers can gain access to a needed recording(s)
+by sending a written request to the on-duty Dispatch Supervisor.
+C. East Central dispatchers are authorized to provide basic first aid over the phone. Dispatchers are
+trained and certified to use the Priority Dispatch EMD Protocol.
+
+-- 1 of 11 --
+
+OPD – 36.1
+Page 2 of 11
+D. The Dispatch Center has and maintains a generator system to remain fully operational during a power
+outage. The generator system is tested weekly by the Richmond Heights Public Works Department.
+E. Administration - All radio communications utilizing Federal Communications Commission assigned
+radio frequencies shall comply with FCC Rules and Regulations addressing Public Safety Systems.
+Refer to Part 90, Subpart B, FCC Rules and Regulations.
+F. The East Central Dispatch Center is responsible for the 24-hour radio, automated data and telephone
+communications of the Department, and more specifically, continuous communications between the
+citizens, the dispatchers and the officers in the field.
+G. Command of ECDC shall be with the supervisor of that unit.
+H. Emergency Telephone Access - The East Central Dispatch Center is an Emergency 911 Public Service
+Answering Point (PSAP) and provides 24-hour, toll-free telephone access for the City of Olivette. This is
+accomplished by using the 911 emergency service or regular trunk lines.
+I. Emergency Incoming Calls For Assistance:
+1. Calls received through the Emergency 911 system shall be given the highest priority. Any
+incoming call may be an emergency.
+2. All incoming Emergency 911 calls will be answered with the phrase “Emergency 911
+(nine-one-one).” The dispatcher will not answer with their name or that of the Police
+Department.
+3. The dispatcher will immediately determine if the caller has an emergency. When
+interviewing the caller, he/she will inquire if they have a police, fire, or medical emergency.
+4. On Emergency 911 hang-ups, the dispatcher should call the number back to ascertain the
+nature of the call. If voice contact is made with the original caller, the dispatcher must use
+their judgment-discretion to determine if an emergency exists or the Emergency 911 call
+was made by accident, by a young child, etc.
+a. If the number is busy, an operator may interrupt the line if requested.
+b. If the dispatcher cannot make contact or is not satisfied with the explanation
+received from the call back, police units will be immediately dispatched.
+c. If there is an open line or the phone is off the hook, a police unit(s) will be
+dispatched to determine if an emergency exists.
+d. If the emergency call requires an ambulance or fire equipment, the
+dispatcher will dispatch appropriate fire and EMS units. The dispatcher will
+dispatch the appropriate police unit(s) while the call is being taken.
+e. Dispatchers shall not assume that no emergency exists if a voice is not heard on the
+telephone. The person in need of aid may be unable to give a voice communication. Police
+
+-- 2 of 11 --
+
+OPD – 36.1
+Page 3 of 11
+units are to be dispatched to the location indicated by the telephone enhanced 911 System.
+III. MISDIRECTED EMERGENCY CALLS:
+Although the Emergency 911 System is designed to bring emergency calls to the proper destination,
+occasionally calls are received for emergencies which are in another jurisdiction. Communications
+personnel will relay such Emergency 911 calls to the proper jurisdiction.
+IV. PROCESSING CALLS FOR THE HEARING IMPAIRED:
+When a TDD call is received a special tone is heard. This tone is different from a fax and computer
+modem call. The call is handled using the TDD keyboard to type text messages.
+V. GENERAL TELEPHONE SYSTEM:
+1. The general number for the police department is 314-645-3000.
+2. Calls regarding services not provided by the Police Department will be referred to the proper
+number or telephone directory.
+VI. EVALUATION AND PRIORITY OF CALLS FOR SERVICE:
+Although our goal is an immediate response to all calls for service, workloads and situations may dictate
+the availability of officers to handle calls. Therefore, it is the responsibility of the call taker who receives
+the call, to be attentive to the victim or witness, and consider that the prioritization of the call will have a
+direct impact on the victim or witness and all other persons involved.
+1. Priority One calls will be immediately dispatched and include those calls which
+involve one or more of the following:
+a. There is an imminent risk of death, serious physical injury, or illness.
+b. In progress crimes in which immediate response may result in the apprehension of the
+perpetrator.
+c. Incidents in which a delay in response may result in the nature of the call becoming
+more serious.
+2. Priority Two calls will be dispatched as soon as possible. Priority Two calls include:
+a. Reports of crimes not in progress or delayed reports.
+b. Runaway and missing person cases.
+c. Motor vehicle crashes with no injury or road blockage.
+3. Priority Three calls include complaints or assignments which do not require immediate
+attention, but which should be carried out as soon as practical. These include:
+
+-- 3 of 11 --
+
+OPD – 36.1
+Page 4 of 11
+a. Parking and ordinance violation complaints.
+b. Administrative assignments.
+c. Notifications and delivery of messages.
+VII. COMPUTER AIDED DISPATCHING (CAD):
+This computer system allows dispatchers, after receiving a call, to enter the information directly into a
+computer screen which is then prioritized. All unit activity is tracked.
+1. The call taker enters the information on the screen. The call is then dispatched to the
+appropriate police unit.
+2. The screen will display all pertinent information regarding the call, alert the dispatcher to
+pending calls, show call updates and allow inquiries to be made of any incident. Inquiries range
+from incident complainant information to officer designations, and any statistical information
+associated with the call, such as, Report/ Event Numbers.
+3. Each specific call for law enforcement service shall receive a unique event number.
+a. The number is computer generated by CAD for each call for service, and/or report.
+b. The number will serve as the basis for filing and retrieving subsequent reports of the
+incident.
+c. The number is indispensable for auditing the communications system.
+4. The CAD system will document the following information for each incident or service activity:
+a. Date and time of request of complainant or officer.
+b. Name and address of complainant, if possible, to include the telephone number. A
+spelling of the name will be requested.
+c. Type of incident reported.
+d. Location of incident reported.
+e. Identification of officers (by call letters and DSN) assigned as primary unit or
+back-up unit.
+f. Time of dispatch.
+g. Time of officer arrival.
+h. Time of officer return to service
+i. Disposition/status of reported incident.
+
+-- 4 of 11 --
+
+OPD – 36.1
+Page 5 of 11
+VIII. GENERAL RADIO PROCEDURES:
+ECDC coordinates the accurate exchange of information between the dispatcher and mobile units, or
+between mobile units.
+1. Through the St. Louis County Emergency Communications Commission, the Department has
+several radio frequencies for voice communication at its disposal.
+a. ECDC PD N is used for general radio communications including the broadcast
+of assignments.
+b. The Olivette Support channel is used for car–to-car, surveillance, special
+assignments or details, and administrative functions.
+2. For interagency communications, the Department will utilize channels as assigned by ECDC or
+St. Louis County Police Communications.
+3. Radio protocol requires that radio transmissions be brief, concise, and accurate. Dispatchers
+and officers alike, must speak clearly, slowly, and without the inflection of emotion or attitude.
+a. No profane, derogatory, or humorous language will be tolerated.
+b. Personnel will not refer to each other my name but only by assigned unit number or, if
+assignment warrants, by DSN.
+c. The following “ten codes” may be used:
+10-1 Unable to Copy
+10-2 Signal Good
+10-4 Acknowledgment
+10-5 Relay
+10-6 Busy -Standby Unless
+Urgent
+10-7 Out of Service
+10-8 In Service
+10-9 Repeat
+10-10 Fight In Progress
+10-13 Weather/Road Condition
+10-20 Location
+10-21 Call by Phone
+J1 - Immediately
+10-22 Disregard
+10-23 Arrived on Scene
+10-24 Assignment Completed
+10-25 Report in Person
+J-1 Immediately
+10-27 Drivers License Record
+10-28 Vehicle Registration
+10-29 Arrest Information:
+J-1 Misdemeanor
+J-2 Felony Arrest
+J-3 Considered
+Dangerous
+10-30 Illegal Use of Radio
+10-33 EMERGENCY
+10-36 Request Correct Time
+10-40 Tactical Situation
+10-41 Beginning Tour of Duty
+10-42 Ending Tour of Duty
+10-43 General Information
+10-44 Request to Leave Car for:
+J-1 Personal Relief
+J-2 Vehicle Service
+J-3 Vehicle Wash
+J-4 Meals
+10-46 Motorist Assist
+10-50 Vehicle Accident
+J1- Minor
+J2- Injuries
+J3- Road Blocked
+J4- Fatality
+10-52 Ambulance Notification
+10-55 Intoxicated Driver
+10-56 Intoxicated Pedestrian
+10-59 Escort
+10-68 Wanted/Crime
+Information
+10-76 Enroute To Assignment
+10-80 Car to Car Traffic
+10-81 Prisoner in Custody
+10-82 Confidential
+10-83 Switch to City Channel
+10-86 Computer Down
+10-88 Advise Phone Number
+10-89 Confidential
+10-92 Contract Patrol:
+J-1 Beginning
+J-2 Ending
+10-95 Bomb Threat
+
+-- 5 of 11 --
+
+OPD – 36.1
+Page 6 of 11
+10-99 Records Indicate Wanted
+or Stolen:
+J1- Misdemeanor J2- Felony J3- Considered Dangerous
+d. The following is the accepted phonetic alphabet used to clarify spelling of names or
+license numbers:
+A-Adam
+B-Boston/ Boy
+C-Charles
+D-David
+E-Edward
+F-Frank
+G-George
+H-Henry
+I-Ida
+J-John
+K-King
+L-Lincoln
+M-Mary
+N-Nora
+O-Ocean
+P-Paul
+Q-Queen
+R-Robert
+S-Sam
+T-Tom
+U-Union
+V-Victor
+W-William
+X-Xray
+Y-Young
+Z-Zebra
+4. General radio procedures require that all personnel in radio service be alert to the radio
+regardless of their position or status. As units in the field cannot be expected to be fully
+knowledgeable of all activity by all personnel, the dispatchers will control the radio system using
+the following guidelines:
+a. All calls from the dispatcher will be considered official orders and will be carried out by
+the assigned unit. This does not limit a police supervisor’s authority to countermand a
+dispatch for justifiable reasons.
+b. When an officer wishes to transmit, he/she shall wait for the radio to be clear than state
+his/her call sign. Only after the dispatcher acknowledges the unit calling shall the officer
+proceed with his/her transmission.
+c. Emergency radio traffic will take precedence over all other traffic.
+d. Officers will advise the dispatcher by voice anytime that they are out of the car or out of
+service, including the location and nature. The officer will advise the dispatcher when
+returning to service. These actions will be recorded in the CAD system.
+e. When an officer stops a car or pedestrian, the officer will notify the dispatcher by voice
+transmission, advising the location and description of the vehicle or person
+stopped.
+f. Officer’s personal cell phones shall not be used to contact ECDC to circumvent official
+police radio traffic.
+5. Dispatch of Assignments.
+a. When receiving IN PROGRESS calls the dispatcher will keep the reporting party on the
+line and broadcast as much descriptive information as possible until the officer (s) arrives
+on the scene.
+
+-- 6 of 11 --
+
+OPD – 36.1
+Page 7 of 11
+b. All high priority calls will be dispatched via voice radio.
+c. Calls requiring more than one officer to respond shall include but are not limited to: (In
+addition, a supervisor will be dispatched on all calls in bold.)
+1). Homicides.
+2). Shootings (to include accidental
+shootings)
+3). Assaults in progress
+13). Accidental Death (To include
+Sudden Deaths/Suicides)
+14). Rapes
+15). Robberies in progress (To include
+Attempt)
+4). Burglaries in progress.
+5). Larcenies in progress.
+6). Disturbances.
+7). Bomb Threats
+8). Prowlers.
+9). Mental Cases (OBS)
+10). Alarm Sounding (Burglary)
+11). Suspicious Occupied Auto.
+12). Keep the peace.
+16). Open door or window
+17). Fight in Progress
+18). 10-50 J2 on the Interstate
+19). 10-50 J4
+20). Pedestrian Check
+21). Call for Police
+22). Shots fired
+23). Hazardous Material Spills
+24). Hold-up Alarm
+d. Use of Alert Tones and Markers:
+i. ALERT 1 (brief single tone) – This will signify that a vehicle an officer has
+stopped is stolen or wanted; that a stopped person is wanted, known to be armed
+and dangerous; or that a similar reason exists (i.e. history as O.B.S.) to believe that
+the stopped individual could pose a threat to the officer.
+ii. ALERT 2 (high-low tone, alternating signal) – This will signify, an officer is in
+trouble, a crime is in progress, a fleeing suspect or vehicle is entering a member
+city from another direction, or information is to be broadcast of an emergency
+nature.
+iii. ALERT 3 (one half-second tone transmitted every ten seconds) – This alert has
+been designed to signify that a serious situation exists and that all routine and
+non-emergency radio traffic shall be held until the situation has stabilized.
+
+-- 7 of 11 --
+
+OPD – 36.1
+Page 8 of 11
+IX. OFFICER INITIATED EMERGENCIES:
+In the event an officer finds himself/herself in an emergency situation, the officer has the ability to notify
+ECDC and other patrol units via car radio or mobile radio. Either method of notification will result in
+immediate assistance being sent to the requesting officer.
+X. RADIO IDENTIFICATION OF OFFICERS:
+Patrol officers will be assigned their sector number as their radio call sign as follows: municipal code,
+shift and sector. For example: 6411 would be the call sign for Olivette (64), day watch (1), West sector
+(1). 6422 would be the call sign for Olivette (64), evening watch (2), East sector (2).
+1. The Chief of Police, Deputy Chief of Police, Support Services, Detectives, Traffic and
+Community Engagement will have permanently assigned call signs.
+2. The call sign for the shift commander will be 6410 for day watch or 6420 for evening watch.
+3. Any specialized details will use the 6490 series.
+XI. ACCESS TO INFORMATION:
+Communications personnel have immediate access to computerized and printed resource information,
+including but not limited to:
+1. The CAD system, which maintains in real-time identification and status of on-duty personnel
+and officer in charge.
+2. The CAD database, which includes:
+a. Roster of all agency personnel including home addresses and telephone numbers.
+b. Address and telephone number data for addresses in Olivette.
+c. Law enforcement agencies
+d. Utility contacts
+e. Frequently called numbers including hospitals, cabs, radio repair, etc.
+3. Printed files on alarm and business emergency contacts
+4. Hazardous Material Reference Books
+5. Copy of the City of Olivette Emergency Operations Plan
+6. Printed maps of the City
+7. Community Services Directories
+
+-- 8 of 11 --
+
+OPD – 36.1
+Page 9 of 11
+8. NCIC and REJIS manuals
+9. Tactical Dispatch Plans
+XII. SECTOR PLANS:
+The shift commander will advise the police dispatcher the appropriate sector plan at the beginning of the
+shift. The sector plan will be determined based on manpower. The highest-ranking officer will be the
+shift commander.
+XIII. ACCEPTING/ DELIVERING EMERGENCY MESSAGES:
+Field personnel under the following conditions may deliver emergency messages:
+1. The message cannot be delivered by any other means.
+2. Notifications to contact other law enforcement agencies.
+3. Death notifications.
+4. Check the welfare of individuals who have been unreachable by others.
+XIV. SEVERE WEATHER WARNINGS:
+If the Watch Commander learns that a tornado warning is in effect for this area, or that there has been an
+actual sighting in or near the City of Olivette, he/she should contact ECDC to see if they are aware of the
+situation. If not, the Watch Commander will have ECDC notify the St. Louis County Office of
+Emergency Management who will control the sounding of all area sirens.
+Emergency warning siren tests will occur on the first Monday of each month, at 11:00 a.m. It is the
+responsibility of the Watch Commander to ensure that all sirens within Olivette are operational and report
+any non-operating sirens to St. Louis County Authorities. If any sirens are not functioning, the dispatcher
+will contact the St. Louis County Office of Emergency Management at (314) 615-9551 and report the
+malfunctions.
+XV. DISASTERS:
+Information pertinent to disasters, civil disturbances, or severe weather conditions should be broadcast to
+units in the field as soon as it becomes available.
+1. Upon being notified of an occurrence, which could be classified as a disaster, the dispatchers
+on duty will immediately notify the on-duty shift commander. The dispatcher will direct the
+appropriate sector car to the scene, along with all necessary emergency units. The shift
+commander will immediately respond to the scene, at which time a decision will be made on
+whether to activate the City of Olivette Emergency Operations Plan. The shift commander will
+activate the communications matrix.
+2. After activation of the plan, and depending on the nature and scope of the disaster, the
+following immediate notifications may also be necessary, for possible use of their services and
+
+-- 9 of 11 --
+
+OPD – 36.1
+Page 10 of 11
+resources:
+a. Mercy Hospital and St. Mary’s Hospital;
+b. University City Fire Department, Ladue Fire Department, Creve Coeur Fire Protection
+District and Community Fire Protection District;
+c. Spire Gas Company;
+d. Ameren UE ;
+e. AT&T Telephone Company;
+f. St. Louis County Medical Examiner's Office;
+g. City of Olivette Public Works and Parks Supervisors;
+h. If the disaster is due to a tornado, the National Weather Service must be notified
+immediately;
+i. If the disaster is due to a plane crash, the Federal Aviation Administration must be
+notified immediately.
+3. Any additional notifications will be made at the discretion and direction of Chief of Police.
+4. Phone numbers for notifications, an outline for assignment of personnel, and information on
+Emergency Operations Center locations and scene control are detailed in the City of Olivette
+Emergency Operations Plan manual.
+XVI. MUTUAL ASSISTANCE:
+When notified by another department that they are in need of assistance, the dispatcher shall immediately
+notify the shift commander, who shall ensure that this Department renders whatever assistance is
+appropriate.
+XVII. CODE 1000 and MOBILE RESPONSE TEAM:
+The St. Louis Area Chiefs of Police Association has a disaster plan for sharing law enforcement
+resources in the event of a large-scale disaster or civil unrest. This combined strength shall be available
+to any participating agency which has exhausted its resources combating an emergency and that emer-
+gency continues to exist. If CODE 1000 assistance request is received, the dispatcher will notify the shift
+commander immediately.
+This General Order supersedes all prior directives and orders inconsistent therewith.
+
+-- 10 of 11 --
+
+OPD – 36.1
+Page 11 of 11
+BY ORDER OF:
+Signature on File
+Beth M. Andreski
+Chief of Police
+Effective Date: 06/30/2009
+Revised: 10/5/2010
+Revised: 7/22/2016
+Revised: 5/3/2018
+Revised: 7/10/2020
+Revised: 3/18/2024
+Revised: 9/9/2024
+Expiration Date: Indefinite
+
+-- 11 of 11 --
+

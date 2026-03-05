@@ -1,0 +1,494 @@
+OPD - 32.1
+Page 1 of 14
+DEPARTMENTAL GENERAL ORDER
+OLIVETTE POLICE DEPARTMENT
+OFFICE OF THE CHIEF OF POLICE
+Index as:
+Police Report Preparation
+Police Report Storage, Retrieval, and Internal Distribution
+Warrant and Persons of Interest Records Management
+Arrest Record Processing
+Closed or Expunged Records
+Release of Information
+Record Checks
+Record Room Function
+Records Retention
+Criminal Justice Information
+Physical Media
+Electronic Media
+RECORDS SYSTEM
+I. PURPOSE:
+The purpose of this General Order is to ensure the proper preparation, storage, retrieval,
+and destruction of police information that is basic and essential to the police reporting
+system. While a quality records system is the responsibility of all components of the
+Department, the Bureau of Support Services manages the Records function.
+II. DEFINITIONS
+Record: A formal account of facts, events or proceedings recorded by mechanical or
+electronic means for present or future reference.
+
+-- 1 of 14 --
+
+OPD - 32.1
+Page 2 of 14
+Closed Record: Available only to arrestee, law enforcement, and the employer for
+childcare and nursing home employment of the arrestee.
+Expunge: To completely remove, blot out, or obliterate an arrest record, rendering them
+unreadable and or unavailable to anyone, including the arrestee.
+Open Record: All arrest and incident reports are open to the public unless otherwise
+closed by one of the provisions of RSMO 610 as defined in this section.
+III. POLICE REPORT PREPARATION
+A. Reporting Required
+Every citizen complaint, criminal incident, or non-criminal incident, to which an officer
+is dispatched, assigned, or encounters during self-initiated activities, will be documented
+in a report or CAD notes. The comments and dispositions will indicate if reports,
+citations, memorandums, or other documents are prepared.
+Upon diligent completion of all assignments, the officer will assign one of the following
+dispositions:
+1. Report – an incident, accident or other offense has occurred without an arrest,
+and a police report will be prepared.
+2. Arrest – someone has been arrested for the offense and a report will be
+prepared.
+3. No Report Necessary (NRN) – An incident or accident has occurred which
+required police service but does not require a police report.
+4. Warning – A violation of ordinance has occurred, and a written or verbal
+warning was issued to the violator. No police report will be prepared.
+5. Summons – A violation of ordinance has occurred, and a citation has been
+issued.
+6 Gone on Arrival (GOA) – An incident, accident, or offense may have occurred,
+but the assigned officer is unable to locate the reporter, victim, witness,
+perpetrator, or evidence to substantiate further investigation. No police report is
+prepared at this time.
+7. Unfounded – No incident or offense occurred, and no police report will be
+prepared.
+8. Non-Valid Alarm – An alarm was activated accidentally or by system
+malfunction and there is no burglary, robbery, or fire.
+
+-- 2 of 14 --
+
+OPD - 32.1
+Page 3 of 14
+9. Valid Alarm – The alarm was not activated accidentally or by a system
+malfunction.
+10. Memo – An incident has occurred which by an operational directive requires a
+memorandum be prepared to document or advise administrators of the incident.
+B. Specialized Reports
+As specified elsewhere, certain incidents and offenses allow or require that a specialized
+report form be used. These forms will be handwritten or typed and include, but are not
+limited to, the following:
+1. Accident Reports,
+2. Alcohol Influence Report and related forms, and/or
+3. Towed Auto form (DOR 4569).
+C. Complaint Numbering
+A sequential complaint number will be assigned to original incidents entered into the
+Computer Aided Dispatch (CAD) system. The number will include a two-digit prefix
+indicating the year.
+1. The CAD system will automatically assign a complaint number (CN) when an
+officer notifies the dispatcher that the assignment or self-initiated action requires a
+complaint number.
+2. Officers may also request complaint numbers for multiple offenses/incidents by
+contacting the dispatcher.
+3. Supplemental reports are assigned the original report number followed by the
+sequential numerical value of the supplemental report.
+D. Police Report Format
+In general, officers will dictate or type original and supplemental police reports using the
+St. Louis County Police Department’s CARE system. The CARE system will be used for
+storage of all offense reports unless a specific report form is otherwise required.
+1. The CARE clerk is accessed by telephone # 314-889-3604, or *2273 from a
+cellular phone.
+2. The officer will follow the directions of the CARE clerk and provide the known
+information.
+
+-- 3 of 14 --
+
+OPD - 32.1
+Page 4 of 14
+3. The narrative should be concise but complete, providing all of the information
+necessary for investigation, prosecution, or another follow-up activity.
+4. Reports that are dictated to a CARE clerk will have a printed copy returned to
+the reporting officer for review.
+5. Upon review by the officer, should editing or changes be required, the officer
+will ensure the appropriate changes are made.
+6. After reviewing the completed police report, the officer will forward the report
+with any attachments to his/her supervisor for review and approval.
+7. When approved by the immediate supervisor, the report will be forwarded for
+final approval.
+8. Upon approval by a Patrol Commander, or Bureau of Investigations
+Commander, the report will be submitted to the Records Technician for further
+processing and filing.
+E. Report Writing Techniques
+Police reports are a record of an offense or incident and will be read by the public,
+prosecutors, and courts. The quality of the report bears upon the professionalism of the
+entire Police Department.
+1. All fields should be completed with the available information.
+2. Narratives should be concise but detailed.
+3. All reports should be proofread for fact, grammar, and spelling.
+4. All attachments should be securely attached to the report.
+IV. RECORDS ROOM FUNCTION
+A. The Olivette Police Department utilizes the St. Louis County Computer Assisted
+Report Entry (CARE) records management system. This is a computer-based automated
+records system that automatically cross references and indexes a myriad of information
+including names, report numbers, types of incidents, locations, vehicles, etc. Included is a
+master name index for adults, juveniles, victims, witnesses, suspects, etc.
+B. The Department also uses the LETS (Law Enforcement Traffic System) program for
+auto accidents, as well as Mobile Ticketing and IMDS (Intergraded Metropolitan
+Docking System) computerized records management systems to track information
+
+-- 4 of 14 --
+
+OPD - 32.1
+Page 5 of 14
+relating to motor vehicle accidents, traffic enforcement, citation tracking & monitoring,
+and municipal court cases.
+C. The Records Room is the main repository for all hard copies of reports and associated
+attachments (except for those related to juvenile reports). Processing and distribution of
+police reports is the responsibility of the Records Technician. Any documents related to
+these police reports such as subpoenas for records or insurance claims will be filed with
+the original report.
+D. Access to the Records area is controlled by a locked door and proximity card. Only
+authorized personnel can enter this area. Access to Department records is controlled by
+both physical and technological means. Such controls are designed to allow necessary
+and reasonable access to Department records by those employees requiring and
+authorized to receive such information, while at the same time, prohibiting access to
+those who are not authorized.
+E. Most report information is stored electronically and is accessible by all personnel as
+needed. Typically, there is no need for Department personnel to access original copies of
+any records. However, if needed, the Records Technician, Chief of Police, Deputy Chief,
+Commander of the Bureau of Support Services, and the Commander of the Bureau of
+Investigations may remove original processed reports for copying. When the original
+report is returned, it will be placed in the “Records” mailbox or given directly to the
+Records Technician. The Record Room Technician will return the original report to the
+file.
+F. If a copy of any police report is made, the Record Technician will log the
+dissemination as to whom the report was given, and the date the copy was made.
+“COPY” will be stamped on all pages of the copied report.
+G. Authorized personnel that disseminate a police report when the Record Technician is
+unavailable (i.e. after-hours or weekends) will notify him/her in a timely manner so the
+dissemination can be logged.
+H. The Records Technician will check the “Records” mailbox daily and will properly re-
+file any reports in a timely manner.
+I. On a regular basis, the Records Technician will provide the Deputy Chief with a list of
+all reports that have not been received in the Record Room. Action is then taken to locate
+and forward any missing reports to the Record Room for filing.
+J. All record room files will be secured by the Records Technician or other designated
+authority at the close of normal business hours.
+K. Public window duties provided by the Records Technician may include:
+
+-- 5 of 14 --
+
+OPD - 32.1
+Page 6 of 14
+1. Referring inquiries to the proper Department, directing persons to locations
+within the Department (i.e. Detective Bureau, shift commander, etc.),
+2. Providing police reports to individuals requesting them following Department
+guidelines,
+3. Requesting the dispatcher to have an officer respond to the station for a report
+or other field operations function, or
+4. Providing any other assistance within the scope of Record Room expertise.
+5. The main Department photocopy machine is in the hallway of the Police
+Department, next to the Records Technician’s office. The machine is used by
+designated clerical personnel and officers to copy reports, documents, or other
+police related papers. The Records Technician is responsible for the supply of
+paper, and for making notification of repair when needed. The Records
+Technician normally copies reports for other Department components and
+municipal, county, state, and federal agencies. Copies are also made of
+documents for distribution to city and police administrators, and any documents
+requested or required by Department policy and procedure.
+V. RECORDS RETENTION:
+The Department maintains all police reports, and various administrative records, in
+accordance with the Missouri Sunshine Law, RSMo. 610 and the guidelines set forth by
+the Missouri Secretary of State. Juvenile records will be maintained by the CARE system
+unless ordered by the St. Louis County Juvenile Court to destroy, expunge, or seal at the
+age of 18.
+VI. MASTER NAME INDEX
+A. All field reports and traffic citations stored in the CARE, LETS, and Mobile Ticketing
+systems are indexed to facilitate search and retrieval. Search criteria and ranges are
+established by the system provider and are based on legal requirements and needs.
+Examples of search criteria may include but are not limited to names of persons involved
+(suspect, victim, driver), type of offense, property involved (stolen, recovered, found),
+and location of occurrence. These files are backed up daily and stored off-site at REJIS.
+B. Records of calls for service are maintained in the CAD software system. Search
+criteria and ranges are established by the software provider and are based on legal
+requirements and needs. Calls for service may be searched by, but are not limited to, the
+following criteria: names of persons involved (caller, victim, driver), type of offense, and
+location of occurrence. These files are backed up daily and stored off-site at the East
+Central Dispatch Center.
+
+-- 6 of 14 --
+
+OPD - 32.1
+Page 7 of 14
+VII. GENERAL
+A. All police reports are stored in the CARE computer system. CARE can automatically
+cross index information by complaint number, name, location, type of incident, and
+property, based on the data entered into the system. CARE includes separate master name
+indexes for all adults and juveniles, including victim, suspect, and witness involvements.
+B. Incident reports involving juveniles are stored in the CARE database. The Bureau of
+Investigations will maintain secure storage for any hard copy Juvenile report that may
+need to be stored locally. The files are maintained in accordance with the Missouri
+Sunshine Law, RSMo. 610 and the guidelines set forth by the Missouri Secretary of
+State. Juvenile reports shall not be accessed electronically by any employee that is not
+directly involved with the incident report.
+C. A copy of every report certified as “Active,” is distributed to the Bureau of
+Investigations for follow-up investigation.
+D. The CARE system is used to prepare reports for submission to the Missouri Incident-
+Based Reporting System.
+E. Copies of auto accidents are transmitted to the Missouri State Highway Patrol through
+the Law Enforcement Traffic System (LETS). Copies of Leaving the Scene cases are
+assigned to the Bureau of Investigations for investigation.
+F. The record system will be reviewed, at least annually, by the Chief of Police and
+Bureau of Support Services, to ensure that the capabilities of the agency's records system
+are both understood and used. This review will also identify problems and essential
+modifications.
+VIII. WARRANT AND PERSONS OF INTEREST RECORDS MANAGEMENT
+A. The Persons of Interest (POI) records management includes investigative information
+placed by officers of the Department.
+B. Persons of Interest are placed on a suspect, based on probable cause, by the
+investigating officer. The officer will complete a Persons of Interest/Contact/Advise
+Entry Form #OPD – F1053 to include all known information necessary to enter the
+Person of Interest into the REJIS, MULES, and/or NCIC computer systems. In addition
+to documenting the reference number in the police report.
+C. Warrants of the Olivette Municipal Court are entered into the REJIS computer
+system. The warrant is filed in a binder located in the first floor cabinets above the fax
+
+-- 7 of 14 --
+
+OPD - 32.1
+Page 8 of 14
+machine, where it is accessible 24 hours a day. The warrant remains in the files as a form
+of verification until the person named in the warrant is arrested or the warrant is
+withdrawn or recalled by the Municipal Court.
+1. Information on active Olivette Municipal Warrants can be accessed and cross-
+indexed using the Regional Justice Information Services (REJIS), Municipal
+Docketing System or Law Enforcement Master Name Index files.
+2. The available information includes:
+a. Date/Time warrant received,
+b. Type of legal process: Criminal,
+c. Nature of document,
+d. Source of document: City of Olivette Municipal Court,
+e. Name of Plaintiff or Defendant,
+f. Officer assigned for service,
+g. Date of assignment,
+h. Court Docket Number from warrant, and
+i. Date service due: open ended.
+D. Cancellation of Warrants and Persons of Interest:
+1. Upon arrest of the person named in the warrant:
+a. Designated personnel will cancel the warrant from the REJIS, MULES
+and NCIC computer system,
+b. The canceled warrant is given to the arresting officer for attachment to
+the arrest report, and
+2. Upon receipt of notification that the warrant has been recalled or withdrawn by
+the court, designated personnel shall remove the warrant from the file.
+3. When the investigating officer determines that a person named as a Person of
+Interest should no longer be considered such, he/she will notify designated
+personnel to cancel the POI in the appropriate computer systems. A copy of the
+cancellation will be attached to the report.
+
+-- 8 of 14 --
+
+OPD - 32.1
+Page 9 of 14
+E. Warrants or Persons of Interest from other agencies:
+1. Copies of Warrants or Person of Interest received from other agencies will
+generally be passed through the Bureau of Field Operations for arrest attempts in
+accordance with the procedures for executing warrants.
+2. Warrants or Persons of Interest wanted by other departments must be verified
+before the arrest is affected.
+IX. ARREST RECORD PROCESSING AND STORAGE
+A. All instances of arrest require that a police report is written, and the arrestee is
+fingerprinted, and photographed in accordance with Department booking procedures.
+The arrest is immediately entered in REJIS at which time an AR (Arrest) number is
+assigned to the arrestee. This AR number is entered onto the booking sheet and
+referenced in the reports.
+B. Arrests are entered into the Regional Justice Information System (REJIS) by the
+booking officer.
+1. The REJIS system assigns an original Tracking Number to each arrest.
+2. The REJIS system assigns a History Number to the arrestee, and all arrests of
+that individual are indexed to that History Number.
+C. The Records Technician maintains Local Identification Number (LID) files.
+1. Photo files include printed arrest photos (mug shots) and digital arrest photos,
+which are maintained in the St. Louis County IRIS mug shot system.
+2. Fingerprint files include inked impressions maintained with the booking
+sheets. Livescan digitally transmits captured criminal fingerprints and all relative
+criminal history information to the Missouri State Highway Patrol, Criminal
+Records Division. Inked fingerprints, including all relative criminal history
+information, and Livescan fingerprints with a court disposition are mailed to the
+same division.
+X. PROCEDURES FOR PROCESSING AND STORING CLOSED OR EXPUNGED
+RECORDS
+A. RSMo. 610, the “Sunshine Law,” establishes practices for the closure, dissemination,
+and expungement of police reports.
+
+-- 9 of 14 --
+
+OPD - 32.1
+Page 10 of 14
+B. All correspondence referring to court ordered closing or expungement of records shall
+be directed to the Chief of police.
+C. Once the legitimacy of the correspondence has been determined, and with the approval
+of the Chief of Police, the Records Technician shall take the appropriate action to comply
+with the court order. This shall include making all appropriate modifications to computer
+entries and marking documents held by this Department as a “Closed Record.”
+D. Any requests or orders to close a record will be filed with the original report. Should
+the report be on micro-film:
+1. The closure will be noted on the cassette, and
+2. The closure request or court order will be filed in the appropriate secure
+cabinet.
+E. Expunged Records
+1. Upon the receipt of an authorized court order to expunge reports, records, and
+files, the Records Technician will obliterate all identification of the arrestee in all
+related documents. The Records Technician will obliterate all photos and LID
+files, including fingerprint cards. All identification of the arrestee will be
+removed from any related in-house computer records including the master name
+index.
+a. Designated personnel will delete the expunged information from REJIS
+files, following the format prescribed by REJIS.
+b. Copies of the court order for expungement will be forwarded to the
+Central Records Section of the St. Louis County Police Department and to
+the Missouri State Highway Patrol and F.B.I as applicable.
+c. The court order, and proofs that the court order has been carried out,
+will be filed in a secure file in the Record Room.
+2. Expunging a record includes:
+a. Replacing the individual’s name throughout the entire report or record
+(including attachments) with the word “Expunged.”
+b. Redacting all personal descriptive information (e.g. SSN, DOB,
+address, phone number) from the entire report or record.
+c. Destroying/deleting all mug shots.
+
+-- 10 of 14 --
+
+OPD - 32.1
+Page 11 of 14
+d. Destroying/deleting all copies of the fingerprint cards.
+e. Removing the booking sheet from the file and notifying REJIS to delete
+the related entry in the subject’s criminal history.
+f. Deleting the in-house REJIS computer entry.
+3. Upon completion of the expungement process, no record will exist to show the
+individual identified in the expungement order possessed a criminal record
+through this Department.
+XI. RELEASE OF INFORMATION OUTSIDE OF THE DEPARTMENT
+A. Policy
+All information, records, and reports that the Department has control over are
+confidential and shall not be released outside of the Department unless authorized. This
+includes all computerized information from the REJIS and in-house computer systems.
+All employees with access to criminal justice records through REJIS, MULES, and NCIC
+are required to comply with the policies concerning the entry, modification, retrieval and
+release of these records. The Department will investigate all suspected instances of
+misuse, and confirmed misuse may result in disciplinary action, up to and including
+termination of employment. The release of certain records may violate state and/or
+federal laws or regulations which may result in civil and criminal penalties. Open public
+records may be released only in accordance with Department procedures.
+B. Only information regarding Olivette incidents or arrests may be released.
+C. When releasing reports, the name of the person and/or agency to which the report is
+released will be recorded in the log.
+D. Release of Reports
+Three types of reports are defined under the statute: incident, arrest, and investigative. A
+police report may include one or more of these and each type of report must be reviewed
+and considered separately to determine if the information is open or closed.
+1. Incident Report
+Details the date, time, specific location, name of victim, and the immediate facts
+and circumstances surrounding the initial report of a crime or incident. These
+include logs, crime reports, accident reports, and complaints.
+2. Arrest Report
+
+-- 11 of 14 --
+
+OPD - 32.1
+Page 12 of 14
+Names the person arrested and the charges.
+3. Investigative Report
+A record, other than an arrest or incident report, inquiring into a crime or
+suspected crime. The investigative report is a closed record until the investigation
+becomes inactive.
+E. Information on the identity of persons named in the reports will not be released if:
+1. The victim is the victim of a sex crime,
+2. Release of identity would endanger the safety of victims, witnesses, undercover
+officers, informants, or other persons named in the incident,
+3. Release of the information would jeopardize an active investigation,
+4. Release of the suspect’s name would hinder the location or arrest of the
+suspect, and/or
+5. Information would disclose investigative techniques, procedures, or guidelines.
+F. Response to inquiries about persons in our custody:
+1. Bond amounts and bonding procedures can be released,
+2. If a suspect is being held without warrant, refer the inquiry to the case detective
+or shift commander, and
+3. For inquiries about charges from other departments, refer the inquiry to the
+other department.
+G. Response to civilian inquiries about persons wanted by our Department:
+1. Municipal Warrants
+No information will be given to persons other than the suspect.
+2. Persons of Interest
+Refer the inquiry to the officer/detective handling the case or to the shift
+commander.
+XII. RECORD CHECK REQUESTS BY CORRESPONDENCE AND TELEPHONE
+
+-- 12 of 14 --
+
+OPD - 32.1
+Page 13 of 14
+A. Requests by Correspondence:
+1. For members of authorized agencies to receive record information by
+correspondence the request must be an official form or on office stationery which
+clearly designates the office address and is signed by someone with an official
+capacity in that office.
+2. Requests by mail shall be forwarded to the Records Technician who shall, at
+their earliest convenience, make a cursory check of the request and arrange them
+for processing. Processing involves retrieving the report, checking it for
+restrictions to release, copying the report, determining the cost, if any, and
+mailing the requestor via normal mailing procedures. Either the Records
+Technician or other person designated by the Chief of police may complete the
+process.
+B. Requests by Telephone:
+1. For any member of authorized agencies to receive information by telephone, a
+call back will be required. The Department member will obtain the officer or
+agent's name (and DSN where applicable), the agency or department and
+telephone number and return the call. In cases where the caller is not personally
+known to you, verify the telephone number of the agency as listed in the
+telephone directory.
+2. If there is any question as to the legitimacy of the agency making the request,
+the Department is under no obligation to telephonically provide arrest record
+information.
+XIII. STORAGE AND DISPOSAL OF CRIMINAL JUSTICE INFORMATION
+A. Physical Media
+1. Criminal justice information that is to be destroyed must be placed in a shred
+bin located within the Police Department.
+2. Bins shall remain under the control of the Deputy Chief until the contents are
+destroyed.
+3. Outside commercial shredding contractors shall not be permitted control of
+intact criminal justice documents without the supervision of a designated Police
+Department employee.
+4. The disposal or destruction of physical media will be witnessed and
+documented.
+B. Electronic Media
+
+-- 13 of 14 --
+
+OPD - 32.1
+Page 14 of 14
+1. Criminal justice information stored on electronic media (i.e. hard drive, thumb
+drive, etc.) will be sanitized or destroyed as needed.
+2. The Deputy Chief will be responsible for the sanitization, removal, storage and
+destruction of all electronic media.
+3. Electronic media that is to be sanitized or destroyed shall remain under the
+control of the Deputy Chief.
+4. The sanitization and/or destruction of electronic media will be witnessed and
+documented.
+This General Order supersedes all prior directives and orders inconsistent therewith.
+BY ORDER OF:
+Signature on File
+Beth M. Andreski
+Chief of Police
+Effective Date: 11/03/2009
+Revised: 9/13/2010
+Revised: 10/30/2013
+Revised: 4/7/2014
+Revised: 7/22/2016
+Revised: 4/20/2018
+Revised: 6/18/2018
+Revised: 5/19/2020
+Revised: 6/22/2022
+Revised: 3/1/2024
+Revised: 9/6/2024
+Expiration: Indefinite
+
+-- 14 of 14 --
+

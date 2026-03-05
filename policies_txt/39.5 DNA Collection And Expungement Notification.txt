@@ -1,0 +1,155 @@
+OPD – 39.5
+Page 1 of 5
+DEPARTMENTAL GENERAL ORDER
+OLIVETTE POLICE DEPARTMENT
+OFFICE OF THE CHIEF OF POLICE
+Index as:
+DNA Collection
+DNA Expungement
+________________________________________________________________________
+DNA COLLECTION & EXPUNGEMENT NOTIFICATION
+I. PURPOSE
+The purpose of this General Order is to establish a procedure to meet the guidelines
+established in Section 650 RSMo for the collection of DNA samples and DNA
+expungement notifications associated with defined arrests.
+II. POLICY
+The arrest of a person who is seventeen years of age or older and who is arrested for
+burglary in the first degree under section 569.160, RSMo, or burglary in the second
+degree under section 569.170, RSMo, or a felony offense under chapters 565, 566, 567,
+568, or 573, RSMo shall have a blood or scientifically accepted biological sample
+collected for purposes of DNA profiling analysis upon booking by the arresting or
+booking officer. This information will also be deposited into the CODIS system.
+III. PROCEDURE
+A. RSMo. 650.055 - Lawful arrest of a person who is seventeen years of age or older and
+is arrested for one of the following offenses:
+1. Burglary 1st Degree under 569.160 RSMo., or
+2. Burglary 2nd Degree under 569.170, RSMo, or
+3. A felony offense under the following chapters:
+a. 565 RSMo. – Offenses Against Person
+b. 566 RSMo., – Sexual Offenses
+c. 567 RSMo., – Prostitution
+
+-- 1 of 5 --
+
+OPD – 39.5
+Page 2 of 5
+d. 568 RSMo., – Offenses Against the Family
+e. 573 RSMo. – Pornography and Related Offenses
+f. Link to RSMo. 650.055:
+https://revisor.mo.gov/main/OneSection.aspx?section=650.055
+B. Process to determine if DNA is needed for purposes of 650 RSMo.
+1. Run Criminal History or MULES QDNA Query. This report will provide
+information if DNA has already been received by the Highway Patrol.
+2. If the Criminal History and/or QDNA report shows there is DNA on file, then a
+DNA collection is not required.
+3. If the Criminal History and/or QDNA report shows there is NO DNA on file
+then collect a DNA sample with the DNA Kit provided by the Missouri State
+Highway Patrol (MSHP) as directed by the instructions provided with the kit and
+DNA collection training. (DNA collection kits must be kept in a temperature-
+controlled environment and shall not be stored in patrol vehicles.)
+4. The kits will NOT be used to collect samples for evidence submission from
+suspects or suspected samples from crime scenes. Different procedures are
+utilized for the collection of samples related to criminal investigations. (Agency
+will need to collect another DNA sample for criminal investigations.)
+a. Requirement to preserve evidence:
+i. “Any evidence leading to a conviction of a felony described in
+subsection 1 of section 650.055 which has been or can be tested for
+DNA shall be preserved by the investigating law enforcement
+agency.”
+ii. Link to RSMo., 650.056:
+https://revisor.mo.gov/main/OneSection.aspx?section=650.056
+IV. PROCEDURE FOR COLLECTION
+A. Contents of collection kit
+Each collection kit is designed for one time use and consists of protective gloves, a
+sample collection card, pre-inked fingerprint sheet, a disposable buccal swab, and a pre-
+addressed mailing envelope.
+
+-- 2 of 5 --
+
+OPD – 39.5
+Page 3 of 5
+B. Collection process
+1. Collection kit instructions
+Collection kit instructions should be closely followed to ensure the best possible
+DNA sample is collected. The following additional steps must be followed when
+completing information on the inside area of the sample card:
+a. Enter the Offense Cycle Number (OCN) from the ten-print card or
+Livescan device in the blank area next to the Missouri Offense Code
+boxes.
+b. Write an "A" next to the jail box to indicate the sample was collected
+following an arrest. Write “SO” if the sample is from a sex offender.
+2. Mailing completed collection cards
+a. Upon completion of the collection process, place the collection card into
+the self-addressed mailing envelope, remove the peel and seal strip from
+the flap and press down firmly.
+b. All completed kits must be immediately mailed to the Crime Laboratory
+Division. Do not mail the buccal swab to the Crime Laboratory Division.
+c. After the sample is collected and placed onto the designated area of the
+collection card, buccal swabs can be placed into a trash receptacle.
+C. Minor mistakes during collection process
+Minor errors during the collection process, such as writing the wrong date of birth on the
+inside of the sample card, are correctible by drawing a line through the wrong
+information and writing the correct information. Obtaining another DNA collection kit
+and repeating the process is not needed.
+D. Significant collection issues
+Wrong person and non-qualifying offense cards containing samples mistakenly collected
+from the wrong person or for non-qualifying offenses should be returned to the Crime
+Laboratory Division through the mailing process described in this order. A notation
+should be made on the collection card describing the circumstances associated with the
+mistaken collection. Crime Laboratory Division personnel will not analyze mistakenly
+collected samples for DNA.
+E. Using force to procure sample
+
+-- 3 of 5 --
+
+OPD – 39.5
+Page 4 of 5
+1. According to Section 650.055, RSMo., "Any person required to provide a DNA
+sample pursuant to this section shall be required to provide such sample, without
+the right of refusal…. Such force may be used as necessary to the effectual
+carrying out and application of such processes and operations. The enforcement of
+these provisions by the authorities in charge of state correctional institutions and
+others having custody or jurisdiction over those who have been arrested for,
+convicted of, pleaded guilty to, or pleaded nolo contendere to felony offenses
+which shall not be set aside or reversed is hereby made mandatory."
+2. Extreme caution should be taken when attempting to obtain samples from an
+uncooperative or resisting subject. The Missouri State Highway Patrol (MSHP)
+and the Department of Corrections (DOC) are ultimately responsible to the
+adherence to this law. A collection site designated by the MSHP or the DOC will
+be used if reasonable efforts to obtain a sample are not successful. At the time of
+an unsuccessful collection the collection card will be completed with all available
+information and the words "Refused" printed on the front of the card.
+3. Complete the booking process in accordance with Department policy and apply
+for warrant.
+V. DNA EXPUNGEMENT PROCEDURE AFTER WARRANT REFUSAL
+A. Within ninety days of warrant refusal, the arresting agency shall notify the Missouri
+State Highway Patrol Crime Laboratory of same. The MSHP Crime Laboratory shall
+expunge all DNA records from the database pertaining to the arrested person and destroy
+the DNA sample of the person, unless the MSHP determines that the person is otherwise
+obligated to submit a DNA sample.
+B. Notification to the MSHP shall be conducted by the arresting officer or other
+designated person of the Department.
+C. Notification to the MSHP of a warrant refusal causing this classified DNA
+expungement shall be sent on the form entitled “Missouri State Highway Patrol DNA
+Expungement Notification”. This form shall be completed and then forwarded to the
+MSHP by fax, mail or email. The form can be located at:
+www.mshp.dps.missouri.gov/MSHPWeb/Publications/Forms/documents/SHP-
+420.pdf
+This General Order supersedes all prior directives and orders inconsistent therewith.
+BY ORDER OF:
+Signature on File
+Beth M. Andreski
+Chief of Police
+Effective Date: 11/03/2009
+
+-- 4 of 5 --
+
+OPD – 39.5
+Page 5 of 5
+Revised: 5/29/2020
+Revised: 12/21/2021
+Revised: 3/20/2024
+Expiration: Indefinite
+
+-- 5 of 5 --
+
